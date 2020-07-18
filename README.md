@@ -4,8 +4,8 @@
 #### Using:   
 - .NET Framework 4.8   
 
-#### To open Task [click here][link].    
-[link]:</docs/01_classes.doc>  
+#### To open tasks [click here][link].    
+[link]:</docs/01_classes.pdf>  
 
 #### Results:   
 ![](docs/task1.png)    
