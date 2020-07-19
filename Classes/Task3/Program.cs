@@ -8,7 +8,7 @@ namespace Task3
         {
             Console.WriteLine("=== Task 3 ===\n");
 
-            // #1 - Create an array with five non-empty objects
+            // #1 Create an array with five non-empty objects
             var purchases = new Purchase[]
                 {
                     new Purchase("Flash Card 4Gb", 27m, 4, DayOfWeek.Monday),
@@ -18,7 +18,7 @@ namespace Task3
                     new Purchase("Apple Watch", 845m, 2, DayOfWeek.Thursday),
                 };
 
-            // #2 - Print objects from array to console using ToString()
+            // #2 Print objects from array to console using ToString()
             foreach (var item in purchases)
             {
                 Console.WriteLine(item);
